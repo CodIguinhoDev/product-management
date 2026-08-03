@@ -1,7 +1,5 @@
-Aplicação Front-End desenvolvida em **React** para gerenciamento de produtos, consumindo a **Product Management API**.
+Aplicação Front-End desenvolvida em **React** para gerenciamento de produtos, consumindo a Product Management API.
 ---
-
-# Telas
 
 ## Cadastro de produto
 
