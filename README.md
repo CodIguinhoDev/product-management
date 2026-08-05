@@ -63,8 +63,8 @@ https://github.com/CodIguinhoDev/product-management-api
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/products-crud-front.git
-cd products-crud-front
+git clone https://github.com/CodIguinhoDev/product-management
+cd product-management
 ```
 
 ---
