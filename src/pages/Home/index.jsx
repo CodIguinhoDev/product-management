@@ -1,4 +1,4 @@
-import { useProduct, useProducts, useAddProduct } from "../../hooks/useProducts";
+import { useProducts, useAddProduct } from "../../hooks/useProducts";
 import { ProductForm } from "../../components/ProductForm";
 import { Link } from "react-router-dom";
 import { useState } from "react";
